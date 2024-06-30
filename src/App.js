@@ -9,7 +9,7 @@ function App() {
         </thead>
         <tbody className="text-start">
           <tr>
-            <td>@mdo</td> <td>@mdo</td> <td>@mdo</td> <td>@mdo</td>
+            <td>zzzz</td> <td>@mdo</td> <td>@mdo</td> <td>@mdo</td>
           </tr>
           <tr>
             <td>@mdo</td> <td>@mdo</td> <td>@mdo</td> <td>@mdo</td>
